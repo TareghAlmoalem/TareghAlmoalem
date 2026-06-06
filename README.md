@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi! I'm **TareghAlmoalem**
 
-<!--
-**TareghAlmoalem/TareghAlmoalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 About Me
+- **Front-End Developer** with 6 years of experience
+- **Back-End Developer (Django)** with 1 year of experience
+- **SEO Specialist** (Search Engine Optimization)
+- Knowledgeable in **Computer Networks**
+- Always learning new technologies
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Front-End
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Design
+
+### Back-End
+- Python, Django
+- MySQL
+
+### SEO & Networks
+- On-Page & Off-Page SEO
+- Google Analytics, Search Console
+- TCP/IP, DNS, HTTP/HTTPS
+- Network Security Basics
+
+## 📚 Currently Learning
+- **CCNA** (Cisco Certified Network Associate)
+- **MCSA** (Microsoft Certified Solutions Associate)
+
+## 🎯 My Goals
+- Become a professional **Full-Stack Developer**
+- Contribute to large Open-Source projects
+- Build high-quality, useful products
+- Earn CCNA & MCSA certifications
+
+## 📫 Contact Me
+- GitHub: [github.com/TareghAlmoalem](https://github.com/TareghAlmoalem)
+- [tareghalmoallem@gmail.com]
