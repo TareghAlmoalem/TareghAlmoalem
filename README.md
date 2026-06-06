@@ -1,11 +1,24 @@
-# 👋 Hi! I'm **TareghAlmoalem**
+# 👋 Hi! I'm **TareghAlmoallem**
 
-## 💼 About Me
-- **Front-End Developer** with 6 years of experience
-- **Back-End Developer (Django)** with 1 year of experience
-- **SEO Specialist** (Search Engine Optimization)
-- Knowledgeable in **Computer Networks**
-- Always learning new technologies
+## 🧪 From Chemical Lab to Code
+
+Chemical Engineer turned Web Developer.  
+From molecular formulas to lines of code.  
+Now immersed in web, networks, and tech.
+
+---
+
+## 🚀 Who am I?
+
+- **Senior Web Developer** | 6 yrs Front-End, 1 yr Back-End (Django)
+- **Chemical Engineer** | Bachelor's Degree
+- **SEO Specialist** | I know how to make Google love your site
+- **Networks** | TCP/IP, DNS, HTTP/HTTPS | Learning CCNA & MCSA
+
+## 💡 My Philosophy:
+
+> *"Technology is about building what previously only existed in your mind."*
+
 
 ## 🛠️ Skills & Expertise
 
