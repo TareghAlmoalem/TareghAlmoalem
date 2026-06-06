@@ -48,4 +48,4 @@ Now immersed in web, networks, and tech.
 
 ## 📫 Contact Me
 - GitHub: [github.com/TareghAlmoalem](https://github.com/TareghAlmoalem)
-- Email : [tareghalmoallem@gmail.com]
+- Email : tareghalmoallem@gmail.com
