@@ -1,6 +1,6 @@
-<!-- انیمیشن تایپینگ (سرویس جایگزین پایدارتر) -->
+<!-- انیمیشن تایپینگ با رنگ قرمز -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=I'm+Web+Designer;I'm+Web+Developer;I'm+Full-Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=I'm+Web+Designer;I'm+Web+Developer;I'm+Full-Stack+Developer" alt="Typing Animation" />
 </p>
 
 <!-- معرفی با آیکون -->
@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Responsive%20Design-563D7C?style=for-the-badge&logo=css3&logoColor=white" />
+  <!-- Bootstrap & jQuery اضافه شد -->
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </p>
 
 ### Back-End
@@ -69,4 +72,9 @@
   <a href="https://github.com/TareghAlmoalem">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<!-- Profile Views Counter (شمارنده بازدید در انتهای صفحه) -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=TareghAlmoalem&label=Profile%20Views&color=0e75b6&style=flat" alt="TareghAlmoalem" /> 
 </p>
