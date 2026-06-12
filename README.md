@@ -1,35 +1,26 @@
-<!-- heading با تایپینگ انیمیشن -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=500&lines=👋+Hi!+I'm+TareghAlmoallem;🧪+From+Chemical+Lab+to+Code" alt="Typing SVG" />
-</h1>
-
-<!-- معرفی کوتاه (متن شما) -->
+<!-- انیمیشن تایپینگ (سرویس جایگزین پایدارتر) -->
 <p align="center">
-  <b>Chemical Engineer turned Web Developer.</b><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=I'm+Web+Designer;I'm+Web+Developer;I'm+Full-Stack+Developer" alt="Typing Animation" />
+</p>
+
+<!-- معرفی با آیکون -->
+<h1 align="center">👋 Hi! I'm TareghAlmoallem</h1>
+<p align="center">
+  <b>🧪 From Chemical Lab to Code</b><br>
+  Chemical Engineer turned Web Developer.<br>
   From molecular formulas to lines of code.<br>
   Now immersed in web, networks, and tech.
 </p>
 
-<!-- جدول Who am I (با آیکون) به جای لیست ساده -->
+<!-- جدول Who am I -->
 ## 🚀 Who am I?
 
 | 🌐 Web Development | 🧪 Chemical Engineering | 📈 SEO | 🌐 Networks |
 |-------------------|------------------------|--------|-------------|
-| Senior Web Developer (6 yrs Front-End, 1 yr Back-End Django) | Bachelor's Degree | SEO Specialist – Google lover | TCP/IP, DNS, HTTP/HTTPS<br>Learning CCNA & MCSA |
+| Senior Web Developer (6 yrs Front-End, 1 yr Back-End Django) | Bachelor's Degree | SEO Specialist – I know how to make Google love your site | TCP/IP, DNS, HTTP/HTTPS<br>Learning CCNA & MCSA |
 
 > 💡 **My Philosophy:**  
 > *"Technology is about building what previously only existed in your mind."*
-
-<!-- آمار گیت‌هاب (مهم برای حرفه‌ای‌تر شدن) -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TareghAlmoalem&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TareghAlmoalem&layout=compact&langs_count=6&theme=radical" />
-</div>
-
-<!-- تروفی‌های گیت‌هاب (همانند نمونه) -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TareghAlmoalem&theme=radical&row=2&column=4&margin-w=15&margin-h=15" />
-</div>
 
 ## 🛠️ Skills & Expertise
 
@@ -50,10 +41,10 @@
 
 ### SEO & Networks
 <p>
-  <img src="https://img.shields.io/badge/SEO%20(On--Page%2FOff--Page)-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/On--Page%20%26%20Off--Page%20SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
   <img src="https://img.shields.io/badge/Search%20Console-4584F6?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP%2FIP%20%7C%20DNS%20%7C%20HTTP%2FHTTPS-0078D4?style=for-the-badge&logo=network&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP%20%7C%20DNS%20%7C%20HTTP%2FHTTPS-0078D4?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Network%20Security%20Basics-FF6C37?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
 
@@ -70,12 +61,12 @@
 - ✅ Earn CCNA & MCSA certifications
 
 ## 📫 Contact Me
-<p>
-  <a href="mailto:tareghalmoallem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/TareghAlmoalem"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
-<!-- شمارنده بازدید پروفایل (مثل نمونه ishandutta2007) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TareghAlmoalem&label=Profile%20Views&color=0e75b6&style=flat" alt="TareghAlmoalem" />
+  <a href="mailto:tareghalmoallem@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/TareghAlmoalem">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
