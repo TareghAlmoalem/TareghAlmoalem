@@ -1,6 +1,6 @@
-<!-- Typing animation in red -->
+<!-- Typing animation in red - slower and without "I'm" -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=FF0000&center=true&vCenter=true&width=600&lines=I'm+Web+Designer;I'm+Web+Developer;I'm+Full-Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Web+Designer;Web+Developer;Full-Stack+Developer" alt="Typing Animation" />
 </p>
 
 <!-- Introduction -->
@@ -43,6 +43,7 @@
 
 ### Tools & DevOps
 <p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
@@ -63,7 +64,7 @@
 ### Front-End
 | Skill | Progress |
 |-------|----------|
-| HTML5 | ![95%](https://img.shields.io/badge/Progress-95%25-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| HTML5 | ![98%](https://img.shields.io/badge/Progress-98%25-E34F26?style=flat-square&logo=html5&logoColor=white) |
 | CSS3 | ![95%](https://img.shields.io/badge/Progress-95%25-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | JavaScript | ![90%](https://img.shields.io/badge/Progress-90%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | Bootstrap | ![90%](https://img.shields.io/badge/Progress-90%25-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
