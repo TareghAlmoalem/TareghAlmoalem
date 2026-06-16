@@ -81,6 +81,7 @@
 ### Tools & Version Control
 | Skill | Progress |
 |-------|----------|
+| Linux | ![80%](https://img.shields.io/badge/Progress-80%25-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | Git & GitHub | ![90%](https://img.shields.io/badge/Progress-90%25-F05032?style=flat-square&logo=git&logoColor=white) |
 
 ### SEO
