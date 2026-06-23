@@ -25,35 +25,44 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,ts&theme=light" />
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&label=" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&label=" />
 </p>
 
 ### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,jquery&theme=light" />
+<p>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/Responsive%20Design-563D7C?style=flat-square&logo=css3&logoColor=white&label=" />
 </p>
 
 ### Backend & Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,mysql&theme=light" />
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&label=" />
 </p>
 
 ### DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=light" />
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&label=" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&label=" />
 </p>
 
 ### SEO & Analytics
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp&theme=light" />
+<p>
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/Search%20Console-4584F6?style=flat-square&logo=google&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white&label=" />
 </p>
 
 ### Networks & Certifications
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white&label=" />
   <img src="https://img.shields.io/badge/MCSA-0078D4?style=flat-square&logo=microsoft&logoColor=white&label=" />
 </p>
