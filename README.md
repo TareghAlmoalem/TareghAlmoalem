@@ -26,7 +26,7 @@
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,ts&theme=light" />
 </p>
 
 ### Frontend
@@ -41,12 +41,21 @@
 
 ### DevOps & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode&theme=light" />
 </p>
 
-### SEO & Networks
+### SEO & Analytics
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gcp,analytics,cisco&theme=light" />
+  <img src="https://skillicons.dev/icons?i=gcp&theme=light" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/Search%20Console-4584F6?style=flat-square&logo=google&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white&label=" />
+</p>
+
+### Networks & Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/MCSA-0078D4?style=flat-square&logo=microsoft&logoColor=white&label=" />
 </p>
 
 ## 📊 Progress Summary
@@ -73,6 +82,7 @@
 |-------|----------|
 | Linux | ![80%](https://img.shields.io/badge/Progress-80%25-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | Git & GitHub | ![90%](https://img.shields.io/badge/Progress-90%25-F05032?style=flat-square&logo=git&logoColor=white) |
+| VS Code | ![96%](https://img.shields.io/badge/Progress-96%25-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ### SEO
 | Skill | Progress |
@@ -80,11 +90,15 @@
 | On-Page SEO | ![95%](https://img.shields.io/badge/Progress-95%25-4CAF50?style=flat-square) |
 | Off-Page SEO | ![85%](https://img.shields.io/badge/Progress-85%25-FF9800?style=flat-square) |
 | Technical SEO | ![90%](https://img.shields.io/badge/Progress-90%25-2196F3?style=flat-square) |
+| Search Console | ![90%](https://img.shields.io/badge/Progress-90%25-4584F6?style=flat-square&logo=google&logoColor=white) |
+| Google Analytics | ![85%](https://img.shields.io/badge/Progress-85%25-E37400?style=flat-square&logo=googleanalytics&logoColor=white) |
+| TypeScript | ![85%](https://img.shields.io/badge/Progress-85%25-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 
 ### Network
 | Skill | Progress |
 |-------|----------|
 | Network & CCNA | ![70%](https://img.shields.io/badge/Progress-70%25-1BA0D7?style=flat-square&logo=cisco&logoColor=white) |
+| MCSA | ![60%](https://img.shields.io/badge/Progress-60%25-0078D4?style=flat-square&logo=microsoft&logoColor=white) |
 
 ## 🌐 Languages
 
