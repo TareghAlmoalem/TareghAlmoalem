@@ -25,40 +25,28 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
-  <img src="https://img.shields.io/badge/-E34F26?style=flat-square&logo=html5&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-F7DF1E?style=flat-square&logo=javascript&logoColor=black&label=" />
-  <img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white&label=" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py&theme=light" />
 </p>
 
 ### Frontend
-<p>
-  <img src="https://img.shields.io/badge/-7952B3?style=flat-square&logo=bootstrap&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-0769AD?style=flat-square&logo=jquery&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-563D7C?style=flat-square&logo=css3&logoColor=white&label=" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bootstrap,jquery&theme=light" />
 </p>
 
 ### Backend & Databases
-<p>
-  <img src="https://img.shields.io/badge/-092E20?style=flat-square&logo=django&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-4479A1?style=flat-square&logo=mysql&logoColor=white&label=" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,mysql&theme=light" />
 </p>
 
 ### DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/-FCC624?style=flat-square&logo=linux&logoColor=black&label=" />
-  <img src="https://img.shields.io/badge/-F05032?style=flat-square&logo=git&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white&label=" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github&theme=light" />
 </p>
 
 ### SEO & Networks
-<p>
-  <img src="https://img.shields.io/badge/-4285F4?style=flat-square&logo=google&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-E37400?style=flat-square&logo=googleanalytics&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-4584F6?style=flat-square&logo=google&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-1BA0D7?style=flat-square&logo=cisco&logoColor=white&label=" />
-  <img src="https://img.shields.io/badge/-0078D4?style=flat-square&logo=microsoft&logoColor=white&label=" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,analytics,cisco&theme=light" />
 </p>
 
 ## 📊 Progress Summary
