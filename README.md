@@ -22,41 +22,43 @@
 > 💡 **My Philosophy:**  
 > *"Technology is about building what previously only existed in your mind."*
 
-## 🛠️ Skills & Expertise
+## 🛠️ Tech Stack
 
-### Front-End
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-563D7C?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&label=" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white&label=" />
 </p>
 
-### Back-End
+### Frontend
 <p>
-  <img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/Responsive-563D7C?style=flat&logo=css3&logoColor=white&label=" />
 </p>
 
-### Tools & DevOps
+### Backend & Databases
 <p>
-  <img src="https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&label=" />
+</p>
+
+### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&label=" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white&label=" />
 </p>
 
 ### SEO & Networks
 <p>
-  <img src="https://img.shields.io/badge/-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/-4584F6?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-FF6C37?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=flat&logo=google&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/Search_Console-4584F6?style=flat&logo=google&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white&label=" />
+  <img src="https://img.shields.io/badge/MCSA-0078D4?style=flat&logo=microsoft&logoColor=white&label=" />
 </p>
 
 ## 📊 Progress Summary
